@@ -29,7 +29,7 @@ function Filter() {
 
         <h3>Colour</h3>
         <div className={styles.checkboxContainer}>
-          {["Vanilla", "Chocolate", "Fruit", "Rainbow"].map((colour) => (
+          {["Pink", "Chocolate", "White", "Others"].map((colour) => (
             <div key={colour}>
               <input type="checkbox" value={colour} />
               <label>{colour}</label>
