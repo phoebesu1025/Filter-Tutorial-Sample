@@ -15,7 +15,8 @@ function Filter() {
               <label>{dairyOption}</label>
             </div>
           ))}
-        </div><br/>
+        </div>
+        <br />
 
         <h3>Flavour</h3>
         <div className={styles.checkboxContainer}>
@@ -25,7 +26,8 @@ function Filter() {
               <label>{flavour}</label>
             </div>
           ))}
-        </div><br/>
+        </div>
+        <br />
 
         <h3>Colour</h3>
         <div className={styles.checkboxContainer}>
@@ -36,12 +38,11 @@ function Filter() {
             </div>
           ))}
         </div>
-      </div><br/>
+      </div>
+      <br />
 
       {/* ================ Filtered Display Section ================*/}
-      <div className={styles.pictureGallery}>
-        
-      </div>
+      <div className={styles.pictureGallery}></div>
     </div>
   );
 }
