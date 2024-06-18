@@ -7,7 +7,7 @@ export const iceCreamData = [
         "https://www.baskinrobbinsmea.com/wp-content/uploads/2020/05/Cotton-Candy.jpg",
       flavour: "Rainbow",
       dairyOption: "Non Dairy Free",
-      color: "Pink",
+      colour: "Pink",
     },
     {
       id: 2,
@@ -16,7 +16,7 @@ export const iceCreamData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNb4qLVc8li_M2NHBfEl14DaVpUCmplY5lg&usqp=CAU",
       flavour: "Chocolate",
       dairyOption: "Non Dairy Free",
-      color: "Chocolate",
+      colour: "Chocolate",
     },
     {
       id: 3,
@@ -25,7 +25,7 @@ export const iceCreamData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8wsZrVmvqy6VL4k_cMj3V8fM4A4JiIRPkFw&usqp=CAU",
       flavour: "Rainbow",
       dairyOption: "Non Dairy Free",
-      color: "Others",
+      colour: "Others",
     },
     {
       id: 4,
@@ -34,7 +34,7 @@ export const iceCreamData = [
         "https://th.bing.com/th/id/OIP.OqI71CUGz0o-fH3Pq0706gHaHa?w=184&h=185&c=7&r=0&o=5&dpr=1.5&pid=1.7",
       flavour: "Fruit",
       dairyOption: "Dairy Free",
-      color: "Pink",
+      colour: "Pink",
     },
     {
       id: 5,
@@ -43,7 +43,7 @@ export const iceCreamData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhu_B4Po6ELToO3ASS8D6-PX8ZyLtwex8tzQ&usqp=CAU",
       flavour: "Chocolate",
       dairyOption: "Non Dairy Free",
-      color: "Chocolate",
+      colour: "Chocolate",
     },
     {
       id: 6,
@@ -52,7 +52,7 @@ export const iceCreamData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCMea3WfNnyq71aUiRzVakN7PIyQPBZIeLg&usqp=CAU",
       flavour: "Vanilla",
       dairyOption: "Dairy Free",
-      color: "White",
+      colour: "White",
     },
     {
       id: 7,
@@ -61,7 +61,7 @@ export const iceCreamData = [
         "https://www.epicuricloud.com/wp-content/uploads/2021/05/Vanilla-Ice-Cream-Cone-up-close-scaled.jpeg",
       flavour: "Rainbow",
       dairyOption: "Non Dairy Free",
-      color: "Others",
+      colour: "Others",
     },
     {
       id: 8,
@@ -70,7 +70,7 @@ export const iceCreamData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLJ2cP6fasme5jSgjAcFGriiSBcruoPjFI6Q&usqp=CAUg",
       flavour: "Fruit",
       dairyOption: "Dairy Free",
-      color: "Others",
+      colour: "Others",
     },
     {
       id: 9,
@@ -79,7 +79,7 @@ export const iceCreamData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZLndYJXGyzwMnIIaZPrm2MUhoiutN3NCyA&usqp=CAU",
       flavour: "Rainbow",
       dairyOption: "Non Dairy Free",
-      color: "Pink",
+      colour: "Pink",
     },
     {
       id: 10,
@@ -88,6 +88,6 @@ export const iceCreamData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSep65gDA6RH8NsuxV4dIovWT4KPBAjfrMdig&usqp=CAU",
       flavour: "Chocolate",
       dairyOption: "Non Dairy Free",
-      color: "Chocolate",
+      colour: "Chocolate",
     },
   ];
